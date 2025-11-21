@@ -1,0 +1,19 @@
+
+*.class
+
+# Log files
+*.log
+
+# BlueJ, Eclipse, IntelliJ files
+.idea/
+*.iml
+*.ipr
+*.iws
+.project
+.classpath
+.settings/
+
+# Build directories
+bin/
+out/
+target/
